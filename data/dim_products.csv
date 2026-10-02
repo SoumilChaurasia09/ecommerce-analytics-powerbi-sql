@@ -1,0 +1,41 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+101,Apex Pro 16-inch Laptop,Electronics,Laptops,850.0,1299.99
+102,Zenith Ultrabook 14,Electronics,Laptops,620.0,949.99
+103,Pulse ANC Wireless Headphones,Electronics,Audio,65.0,149.99
+104,EchoWave Bluetooth Speaker,Electronics,Audio,35.0,79.99
+105,Horizon 27-inch 4K Monitor,Electronics,Displays,180.0,329.99
+106,Vortex 34-inch Ultrawide Monitor,Electronics,Displays,310.0,549.99
+107,Nova Mechanical Gaming Keyboard,Electronics,Accessories,45.0,99.99
+108,Precision Wireless Ergonomic Mouse,Electronics,Accessories,22.0,59.99
+109,OmniCharge 100W USB-C Dock,Electronics,Accessories,50.0,119.99
+110,TrueVision 1080p Streaming Webcam,Electronics,Accessories,28.0,69.99
+111,ErgoFlex Mesh Office Chair,Furniture,Seating,120.0,249.99
+112,Titan Executive Leather Chair,Furniture,Seating,190.0,389.99
+113,Elevate Dual-Motor Standing Desk,Furniture,Desks,240.0,499.99
+114,Compact Studio Desk 48-inch,Furniture,Desks,95.0,199.99
+115,ModuStack 4-Tier Bookshelf,Furniture,Storage,70.0,159.99
+116,SteelFrame Mobile File Cabinet,Furniture,Storage,55.0,129.99
+117,Lumina Balanced Arm Desk Lamp,Furniture,Lighting,18.0,45.99
+118,Aura Ambient LED Monitor Light Bar,Furniture,Lighting,24.0,54.99
+119,ComfortStep Anti-Fatigue Floor Mat,Furniture,Accessories,15.0,39.99
+120,Bamboo Cable Organizer Hub,Furniture,Accessories,8.0,24.99
+121,Executive Hardcover Notebook,Office Supplies,Stationery,4.5,14.99
+122,Archival Gel Ink Pens (Pack of 12),Office Supplies,Stationery,5.0,16.99
+123,Heavy Duty Desk Stapler & Staples,Office Supplies,Stationery,7.0,19.99
+124,Recycled Premium Copy Paper (5 Reams),Office Supplies,Paper,16.0,34.99
+125,Sticky Notes Assorted Pack (12 Pads),Office Supplies,Paper,3.5,11.99
+126,Presentation Display Binders (Pack of 4),Office Supplies,Filing,8.0,22.99
+127,Expanding Accordion File Folder,Office Supplies,Filing,5.5,15.99
+128,Magnetic Dry-Erase Whiteboard 36x24,Office Supplies,Boards,22.0,54.99
+129,Dual-Action Document Shredder,Office Supplies,Equipment,42.0,89.99
+130,Heavy-Duty Label Maker Machine,Office Supplies,Equipment,20.0,49.99
+131,Commuter Water-Resistant Laptop Backpack,Apparel & Bags,Bags,32.0,79.99
+132,Metro Sling Crossbody Tech Bag,Apparel & Bags,Bags,18.0,45.99
+133,Weekend Canvas Duffel Bag,Apparel & Bags,Bags,28.0,69.99
+134,Classic Organic Cotton Tech Hoodie,Apparel & Bags,Clothing,22.0,59.99
+135,Merino Wool Everyday Crewneck,Apparel & Bags,Clothing,35.0,84.99
+136,Performance Breathable Polo Shirt,Apparel & Bags,Clothing,14.0,39.99
+137,Structured Minimalist Snapback Cap,Apparel & Bags,Accessories,8.0,24.99
+138,Insulated Stainless Steel Water Bottle 32oz,Apparel & Bags,Accessories,10.0,29.99
+139,Thermal Wool Tech Gloves,Apparel & Bags,Accessories,9.0,24.99
+140,Compact Windproof Travel Umbrella,Apparel & Bags,Accessories,7.5,21.99

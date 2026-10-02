@@ -1,0 +1,16 @@
+# Power BI Temporary and Backup Files
+*.tmp
+*.bak
+~$*
+AutoRecovery save of *
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
